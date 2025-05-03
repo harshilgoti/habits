@@ -10,6 +10,10 @@ habits/
 ├── habits-be/         # Backend API server
 ```
 
+## Demo
+
+[Watch Demo Video](https://drive.google.com/file/d/1y6fpXuFe4GJhnVs3Hz04KH5hU83YzbYy/view)
+
 ## Features
 
 - User authentication and authorization
